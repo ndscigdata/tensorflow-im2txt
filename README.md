@@ -43,19 +43,19 @@ def RenameCkpt():
 
 # 训练结果：
 	图片放在data目录下:
-	<img src="data/COCO_val2014_000000224477.jpg" alt="compare" width="600"/>
+	<img src="./data/COCO_val2014_000000224477.jpg" alt="compare" width="600"/>
 图像 COCO_val2014_000000224477.jpg 标题是:
   0) a man riding a wave on top of a surfboard . (概率=0.035672)
   1) a person riding a surf board on a wave (概率=0.016238)
   2) a man on a surfboard riding a wave . (概率=0.010146)
   
-	<img src="data/ep271.jpg" alt="compare" width="600"/>
+	<img src="./data/ep271.jpg" alt="compare" width="600"/>
 图像 ep271.jpg 标题是:
   0) a woman is standing next to a horse . (概率=0.000759)
   1) a woman is standing next to a horse (概率=0.000647)
   2) a woman is standing next to a brown horse . (概率=0.000384)
   
-	<img src="data/dog.jpg" alt="compare" width="600"/>
+	<img src="./data/dog.jpg" alt="compare" width="600"/>
 图像 dog.jpg 标题是:
   0) a dog is eating a slice of pizza . (概率=0.000138)
   1) a dog is eating a slice of pizza on a plate . (概率=0.000047)
